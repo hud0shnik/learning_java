@@ -1,7 +1,5 @@
 package java_app;
 
-import java.util.Scanner;
-
 public class App {
 
     public static void main(String[] args) {
